@@ -1,4 +1,5 @@
 # hello-react-front-end
+The app uses the information from the back-end app to display different greetings.
 
 ## Built With:
 
